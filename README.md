@@ -1,5 +1,14 @@
-### Hi there 👋
+# root@callum:~$ cat README.md
 
+## ls about me
+Hello :) I'm Callum (they/them), a Student Researcher from TSIS and a tech geek. I'm passionate about all things related to Computer Science and cybersecurity. I'm constantly exploring various aspects of cybersecurity to broaden my understanding! Feel free to connect with me!
+
+## ls skills
+- Burp Suite
+- Wireshark
+- Nmap
+- Ghidra
+- Science Research
 <!--
 **Callum-HQ/Callum-HQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
