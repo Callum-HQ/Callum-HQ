@@ -11,5 +11,5 @@ Hello :) I'm Callum (they/them), a Student Researcher from TSIS and a tech geek.
 - Ghidra
 - Science Research
 
-## ls contacct
+## ls contact
 Feel free to connect with me on [Linkedin](www.linkedin.com/in/callum-q-27a967245/) if our spheres of interest intersect!
